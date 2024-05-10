@@ -1,0 +1,25 @@
+{
+  "name": "m6node-day-4-homework-web-scraping-for-tech-job-postings",
+  "version": "1.0.0",
+  "description": "Web Scraping for Tech Job Postings (Module #6 Node.js, Day 4 Homework)",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex21c/m6node-day-4-homework-web-scraping-for-tech-job-postings.git"
+  },
+  "keywords": [
+    "web scraping",
+    "node.js",
+    "web scraping for tech job posting",
+    "web scraping using puppeteer"
+  ],
+  "author": "Abhishek kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex21c/m6node-day-4-homework-web-scraping-for-tech-job-postings/issues"
+  },
+  "homepage": "https://github.com/Alex21c/m6node-day-4-homework-web-scraping-for-tech-job-postings#readme"
+}
